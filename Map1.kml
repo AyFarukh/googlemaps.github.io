@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Map1</name>
+    <NetworkLink>
+      <name>pakrails</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1IR2smz1bjwImZIHp9FfQlo7De8t5ONGy&lid=SXa_-rUk3uA]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
